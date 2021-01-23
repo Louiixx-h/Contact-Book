@@ -1,2 +1,2 @@
-# Agenda-de-contatos
-Agenda de Contatos
+# Agenda de Contatos
+<p>Uma aplicativo para agendar contatos feito em Android Studio.</p>
