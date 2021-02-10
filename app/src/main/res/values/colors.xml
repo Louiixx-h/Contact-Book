@@ -3,8 +3,15 @@
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
+
+    <color name="primary_color">#ff5722</color>
+    <color name="primary_light">#ff8a50</color>
+    <color name="primary_dark">#c41c00</color>
+
+    <color name="secondary_color">#efefef</color>
+    <color name="secondary_dark">#b6c2b7</color>
+
+    <color name="black_gray">#272727</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 </resources>
