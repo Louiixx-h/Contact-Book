@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Agenda De Contatos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add">Adicionar</string>
+    <string name="contact">Contatos</string>
 </resources>
